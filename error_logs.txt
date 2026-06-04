@@ -1,0 +1,2 @@
+2026-06-04 23:46:13 [ERROR] - Unexpected serviceA shutdown... Please check the cause
+2026-06-04 23:51:01 [ERROR] - No response from API with the correlation id: abcd

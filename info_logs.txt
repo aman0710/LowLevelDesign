@@ -1,0 +1,2 @@
+{"Timestamp:" 2026-06-04 23:46:13, "Level:" INFO, "Message:" All services are up and running}
+{"Timestamp": 2026-06-04 23:51:01, "Level": INFO, "Message": Data successfully fetched from API}
